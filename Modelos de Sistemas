@@ -1,10 +1,19 @@
 Aula de Modelos de Sistemas - Dia 29/09/2022
 
 - Principal caracteristica é a heterogeidade.
+
 - Na maioria dos ambientes de sistema distruibuido, os processos ocorrem por threads
+
 - Cliente-Servidor( MAIS CONHECIDO POR TODOS), cliente que recebe determinada informação e o servidor responde aquela informação.
+
 - Peer-to-Peer: Tipo de arquitetura que todo cliente é servidor. Não tem centralização, ou seja todos compartilham informações. Quando mais maqinas estiverem conectadas, melhor. não oferece um aumento de escala além daquela limitada.
+
 - Posicionamento: Mapeamento de serviços em varios servidores. Uso de cache tambem facilita bastante a vida do usuario.
+
 - Codigo móvel: Um tipo de codigo muito utilizado antigamente, na qual o usuario utilizava muito no computador, utilizando na area de segurança. Não é muito recomendado, por conta dos ataques que começaram a ficar cada vez mais vuneravel nesse tipo de aplicação
+
 - Camadas Lógicas: Modelo OSI. APP- MIDLEWARE- SO - COMPUTADOR E HARDWARE.
-- 
+
+- Camadas fisicas: Front-End e back end.
+
+- Cliente Burro: Pouquissimo recurso de harware. 
